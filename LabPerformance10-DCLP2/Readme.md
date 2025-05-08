@@ -20,6 +20,7 @@ Case#2Output:
 For Case 1,
 
 ![Output](Result/CASE1.png)
+
 For Case 2,
 
 ![Output](Result/CASE2.png)
